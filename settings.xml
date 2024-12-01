@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+    <excleded>
+        <exclude value=".jpg"/>
+        <exclude value=".png"/>
+        <exclude value=".gif"/>
+        <exclude value=".ppt"/>
+        <exclude value=".pptx"/>
+        <exclude value=".js"/>
+        <exclude value=".css"/>
+        <exclude value=".xls"/>
+        <exclude value=".xlsx"/>
+        <exclude value=".doc"/>
+        <exclude value=".docs"/>
+        <exclude value=".zip"/>
+        <exclude value=".rar"/>
+        <exclude value=".pdf"/>
+        <exclude value="logout.php"/>
+        <exclude value="about.php"/>
+        <exclude value="contact.php"/>
+        <exclude value="phpinfo.php"/>
+    </excleded>
+
+    <cookies>
+		<cookie name="PHPSESSID" value="b5abd5c659abad1c145fac7b75ab8014"/>
+		<cookie name="security" value="low"/>
+	</cookies>
+</settings>
